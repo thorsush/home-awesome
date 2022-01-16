@@ -9,7 +9,7 @@ function Header() {
     const [{cart} ,dispatch] = useStateValue();
     return (
         <nav className='header'>
-            <Link to={"/"}>
+            <Link to={"/home-awesome/"}>
                 <img 
                 className='header_logo' 
                 src={companyLogo} 
@@ -24,19 +24,19 @@ function Header() {
                 <SearchIcon className='searchicon'></SearchIcon>
             </div>
             <div className='header_nav'>
-            <Link className='header_options' to={"/"}>
+            <Link className='header_options' to={"/home-awesome/"}>
                <div>Home</div>
             </Link>
-            <Link className='header_options' to={"/about"}>
+            <Link className='header_options' to={"/home-awesome/about"}>
                <div>About</div>
             </Link>
-            <Link className='header_options' to={"/products"}>
+            <Link className='header_options' to={"/home-awesome/products"}>
                <div>Products</div>
             </Link>
-            <Link className='header_options' to={"/sign_in"}>
+            <Link className='header_options' to={"/home-awesome/sign_in"}>
                <div>Sign In</div>
             </Link>
-            <Link className='header_options' to={"/checkout"}>
+            <Link className='header_options' to={"/home-awesome/checkout"}>
               <div className='header_basket'>
                  <ShoppingCartIcon/>
                  <span>{cart.length}</span>
