@@ -1,38 +1,97 @@
-.App {
-  text-align: center;
+*{
+  margin:0;
+}
+.header{
+  background-color: #6e0040;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  /* justify-content: space-evenly; */
+}
+.header input{
+  padding: 0%;
+  margin-left: 50px;
+  font-size: large;
+  font-family: sans-serif;
+  font-weight: 1000;
+  color: rgb(27, 20, 24);
+  border: none;
+}
+ .searchbar{
+  display: flex;
+  width: 100%;
+}
+.header_searchBar{
+  display: flex;
+  flex: 1;
+}
+.searchicon{
+  background-color: rgb(211, 81, 183);
+  padding: 2px;
+  cursor: pointer;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header_logo{
+  margin-left: 10px;
+  border-radius: 50%;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header_nav{
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.header_options{
+  text-decoration: none;
+  color: antiquewhite;
+}
+.header_options:hover{
+  color:rgb(211, 81, 183) ;
+  transition: 300ms;
+  transform: scale(1.1);
+}
+.header_basket{
+  display: flex;
+}
+.sign_in{
+  background-image: linear-gradient(#6e0040, rgb(211, 81, 183));
+  height: 92vh;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  /* justify-content: center; */
 }
-
-.App-link {
-  color: #61dafb;
+.sign_in_box{
+  background-color: white;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  height: 90%;
+  width: 30%;
+  box-shadow: 10px 15px #6e0040;
+  border: 2px solid #6e0040;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sign_in h1{
+  text-align: center;
+  color: #6e0040;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.user_input{
+ margin-top: 50px !important;
+ margin-left: 5% !important;
+ width: 90%;
+}
+.sign_in_button{
+  margin-top: 50px;
+  width: 80%;
+  height: 40px;
+  margin-left: 10%;
+  background-color: #6e0040;
+  border-radius: 5px;
+  color: antiquewhite;
+  font-size: x-large;
 }

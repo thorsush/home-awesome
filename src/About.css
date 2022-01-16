@@ -1,0 +1,36 @@
+.about{
+    background-image: linear-gradient(rgb(245, 220, 220),antiquewhite);
+    height: 92vh;
+}
+h1{
+    text-align: center;
+    color: #6e0040;
+}
+.about h3{
+    color:  #6e0040;
+    margin-top: 50px;
+    margin-left: 30px;
+    text-align: left;
+}
+.about img{
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+    height: 400px;
+    width: 400px;
+}
+.about_info{
+    display: flex;
+    padding-bottom: 50px;
+    border-bottom: 2px solid #6e0040;
+}
+.about footer{
+    display: flex;
+    justify-content: space-around;
+}
+footer a,p{
+    cursor: pointer;
+}
+footer a:hover{
+    text-decoration: underline;
+}
