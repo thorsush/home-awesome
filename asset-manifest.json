@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/home-awesome/static/css/main.bedfba4f.css",
+    "main.js": "/home-awesome/static/js/main.940872f5.js",
+    "static/js/787.15c7bbe9.chunk.js": "/home-awesome/static/js/787.15c7bbe9.chunk.js",
+    "static/media/diningTable1.png": "/home-awesome/static/media/diningTable1.652abebbd09c08121ad9.png",
+    "static/media/decoration4.jpg": "/home-awesome/static/media/decoration4.ee91585e3b5bfb7120fa.jpg",
+    "static/media/decoration3.jfif": "/home-awesome/static/media/decoration3.9a17ea0eec5fafb19638.jfif",
+    "static/media/diningTable.png": "/home-awesome/static/media/diningTable.884e1e8a0be0edea50a0.png",
+    "static/media/homeawesomelogo.png": "/home-awesome/static/media/homeawesomelogo.050a9dcaf51ed9b7e673.png",
+    "static/media/decoration2.jpeg": "/home-awesome/static/media/decoration2.75caebaf2254acf7d8cf.jpeg",
+    "static/media/decoration6.jfif": "/home-awesome/static/media/decoration6.578955a9f43889c266cc.jfif",
+    "static/media/kingSizeBed1.jpg": "/home-awesome/static/media/kingSizeBed1.e6d62ccf8fd0ea6ebdaf.jpg",
+    "static/media/decoration1.jpg": "/home-awesome/static/media/decoration1.98ec5e3d71f615154c54.jpg",
+    "static/media/decoration5.jfif": "/home-awesome/static/media/decoration5.fdc82ff0ac5c875ab111.jfif",
+    "static/media/decoration8.jfif": "/home-awesome/static/media/decoration8.c20c049340137ac8a6b7.jfif",
+    "static/media/decoration7.jfif": "/home-awesome/static/media/decoration7.4229ce32821becde63ad.jfif",
+    "static/media/couch1.jfif": "/home-awesome/static/media/couch1.63adb82b2370e4f05849.jfif",
+    "static/media/couch2.jfif": "/home-awesome/static/media/couch2.65c8f005c16dbdf126ef.jfif",
+    "index.html": "/home-awesome/index.html",
+    "main.bedfba4f.css.map": "/home-awesome/static/css/main.bedfba4f.css.map",
+    "main.940872f5.js.map": "/home-awesome/static/js/main.940872f5.js.map",
+    "787.15c7bbe9.chunk.js.map": "/home-awesome/static/js/787.15c7bbe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bedfba4f.css",
+    "static/js/main.940872f5.js"
+  ]
+}
