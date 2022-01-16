@@ -14,10 +14,10 @@ function App() {
       <Header/>
          <Routes>
            <Route path="/" element={<Home/>}></Route>
-           <Route path="/e-commerce/about" element={<About/>}></Route>
-           <Route path="/e-commerce/products" element={<AllProducts/>}></Route>
-           <Route path="/e-commerce/sign_in" element={<SignIn/>}></Route>
-           <Route path="/e-commerce/checkout" element={<Checkout/>}></Route>
+           <Route path="/about" element={<About/>}></Route>
+           <Route path="/products" element={<AllProducts/>}></Route>
+           <Route path="/sign_in" element={<SignIn/>}></Route>
+           <Route path="/checkout" element={<Checkout/>}></Route>
          </Routes>
       </>
       </BrowserRouter>
