@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/home-awesome/static/css/main.bedfba4f.css",
-    "main.js": "/home-awesome/static/js/main.487222b0.js",
+    "main.css": "/home-awesome/static/css/main.7fc14c48.css",
+    "main.js": "/home-awesome/static/js/main.718c80d3.js",
     "static/js/787.15c7bbe9.chunk.js": "/home-awesome/static/js/787.15c7bbe9.chunk.js",
     "static/media/diningTable1.png": "/home-awesome/static/media/diningTable1.652abebbd09c08121ad9.png",
     "static/media/decoration4.jpg": "/home-awesome/static/media/decoration4.ee91585e3b5bfb7120fa.jpg",
     "static/media/decoration3.jfif": "/home-awesome/static/media/decoration3.9a17ea0eec5fafb19638.jfif",
     "static/media/diningTable.png": "/home-awesome/static/media/diningTable.884e1e8a0be0edea50a0.png",
+    "static/media/notFound.png": "/home-awesome/static/media/notFound.268e84fc927c8680dc53.png",
     "static/media/homeawesomelogo.png": "/home-awesome/static/media/homeawesomelogo.050a9dcaf51ed9b7e673.png",
     "static/media/decoration2.jpeg": "/home-awesome/static/media/decoration2.75caebaf2254acf7d8cf.jpeg",
     "static/media/decoration6.jfif": "/home-awesome/static/media/decoration6.578955a9f43889c266cc.jfif",
@@ -18,12 +19,12 @@
     "static/media/couch1.jfif": "/home-awesome/static/media/couch1.63adb82b2370e4f05849.jfif",
     "static/media/couch2.jfif": "/home-awesome/static/media/couch2.65c8f005c16dbdf126ef.jfif",
     "index.html": "/home-awesome/index.html",
-    "main.bedfba4f.css.map": "/home-awesome/static/css/main.bedfba4f.css.map",
-    "main.487222b0.js.map": "/home-awesome/static/js/main.487222b0.js.map",
+    "main.7fc14c48.css.map": "/home-awesome/static/css/main.7fc14c48.css.map",
+    "main.718c80d3.js.map": "/home-awesome/static/js/main.718c80d3.js.map",
     "787.15c7bbe9.chunk.js.map": "/home-awesome/static/js/787.15c7bbe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bedfba4f.css",
-    "static/js/main.487222b0.js"
+    "static/css/main.7fc14c48.css",
+    "static/js/main.718c80d3.js"
   ]
 }
